@@ -1,5 +1,5 @@
 <h1 align="center">안녕하세요! 고승우 학생입니다.</h1>
-<h3 align="center">백엔드 개발자 지망생</h3>
+<h3 align="center">개발자 지망생</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seriousbug98&label=Profile%20views&color=0e75b6&style=flat" alt="seriousbug98" /> </p>
 
